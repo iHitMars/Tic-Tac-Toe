@@ -52,7 +52,7 @@ The project consists of a single Python file (`a1_FAUusername.py`) that contains
 ## Usage
 
 1. Run the script.
-2. 2. Follow the on-screen prompts to make your move.
+2. Follow the on-screen prompts to make your move.
 3. After each game, you can choose to play again or exit.
 
 ---
