@@ -59,7 +59,6 @@ The project consists of a single Python file (`a1_FAUusername.py`) that contains
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
-- [Team Member 1](https://github.com/team_member_1)
-- [Team Member 2](https://github.com/team_member_2)
+- [Rashawn Hill](https://github.com/iHitMars)
+
 
