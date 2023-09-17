@@ -28,3 +28,38 @@ This repository contains a Tic-Tac-Toe game implemented in Python for the CAP 46
 ### Installation
 
 1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run the Python script to start the game.
+
+
+---
+
+## Project Structure
+
+The project consists of a single Python file (`a1_FAUusername.py`) that contains all the necessary functions and logic to play Tic-Tac-Toe against an AI opponent.
+
+### Functions
+
+- `display_board(board)`: Displays the Tic-Tac-Toe board.
+- `check_winner(board)`: Checks for a winner.
+- `check_tie(board)`: Checks for a tie.
+- `minmax(board, depth, maximizing)`: Implements the MINMAX algorithm for AI decision-making.
+- `player_move(board)`: Handles the player's move.
+- `computer_move(board)`: Handles the computer's move.
+
+---
+
+## Usage
+
+1. Run the script.
+2. 2. Follow the on-screen prompts to make your move.
+3. After each game, you can choose to play again or exit.
+
+---
+
+## Contributors
+
+- [Your Name](https://github.com/yourusername)
+- [Team Member 1](https://github.com/team_member_1)
+- [Team Member 2](https://github.com/team_member_2)
+
