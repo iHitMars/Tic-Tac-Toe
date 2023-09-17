@@ -1,4 +1,4 @@
----
+
 
 ```
 ## Table of Contents
@@ -12,7 +12,7 @@
 - [Usage](#usage)
 - [Contributors](#contributors)
 
-
+---
 
 ## Introduction
 
