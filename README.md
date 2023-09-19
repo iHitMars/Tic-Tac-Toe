@@ -36,7 +36,7 @@ This repository contains a Tic-Tac-Toe game implemented in Python for the CAP 46
 
 ## Project Structure
 
-The project consists of a single Python file (`a1_FAUusername.py`) that contains all the necessary functions and logic to play Tic-Tac-Toe against an AI opponent.
+The project consists of a single Python file (`a1_hillr2017.py`) that contains all the necessary functions and logic to play Tic-Tac-Toe against an AI opponent.
 
 ### Functions
 
